@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Shakh. Welcome on my page!
+My name is Shakh. I'm QA automation engineer.
+Welcome on my GitHub page!
+
 ### Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/enragen)
